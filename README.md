@@ -1,79 +1,62 @@
-# 📝 To-Do App (Pet Project)
+# ✅ To-Do App
 
-## 📌 Опис
+## 📌 Description
 
-Це мій навчальний pet-проєкт, створений для практики:
+This is a pet project built to practice frontend and backend development.
 
-* Java
-* HTML / CSS / JavaScript
-* Backend (Spring Boot - планується)
-* Робота з GitHub
-
-Проєкт реалізує простий менеджер задач (To-Do List).
+The project is developed step by step — starting from a simple UI and evolving into a full-stack web application.
 
 ---
 
-## 🚀 Функціонал
+## 🚀 Features
 
-### 🔰 Поточний:
+### 🔰 Current:
 
-* Додавання задач
-* Видалення задач
-* Позначення як виконано
-* Збереження в localStorage
+* Add tasks
+* Delete tasks
+* Mark tasks as completed
+* Save tasks in localStorage
 
-### ⚙️ В планах:
+### ⚙️ Planned:
 
-* Backend на Spring Boot
-* Робота з базою даних
+* Backend with Spring Boot
 * REST API
-* Авторизація користувачів
+* Database integration
 
 ---
 
-## 🛠️ Технології
+## 🛠️ Tech Stack
 
-* Java
+Frontend:
+
 * HTML
 * CSS
 * JavaScript
-* Git / GitHub
+
+Backend:
+
+* Java
+* Spring Boot
 
 ---
 
-## 📂 Структура проєкту
+## 📋 Development Process
 
-todo-app/
-│
-├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-└── backend/ (планується)
+The project is managed using GitHub Issues:
+
+* Each task is created as a separate issue
+* Development process simulates a real-world workflow
 
 ---
 
-## 📋 План розробки
+## 🎯 Goals
 
-Проєкт розробляється через GitHub Issues:
-
-* Кожна задача = окремий тікет
-* Використовується підхід як у реальній команді
-
----
-
-## 🎯 Мета
-
-Навчитись:
-
-* працювати з GitHub
-* будувати структуру проєкту
-* писати чистий код
-* розділяти frontend і backend
+* Learn GitHub workflow
+* Practice frontend and backend integration
+* Understand web application architecture
 
 ---
 
-## 👩‍💻 Автор
+## 👩‍💻 Author
 
 Prykhodko Polina
